@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso/static/css/main.bbce1e86.css",
+    "main.js": "/curso/static/js/main.2054e966.js",
+    "index.html": "/curso/index.html",
+    "static/media/delete.svg": "/curso/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/curso/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bbce1e86.css.map": "/curso/static/css/main.bbce1e86.css.map",
+    "main.2054e966.js.map": "/curso/static/js/main.2054e966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbce1e86.css",
+    "static/js/main.2054e966.js"
+  ]
+}
